@@ -29,13 +29,13 @@ Our code will be released soon. Please stay tuned for further updates.
 If you use this code in your research, please cite the following paper:
 
 ```
-@inproceedings{LinJYPRCV2024,
-  title={Self-Distillation via Intra-Class Compactness},
-  author={Lin, Jiaye and Li, Lin and Yu, Baosheng and Ou, Weihua and Gou, Jianping},
-  booktitle={The 7th Chinese Conference on Pattern Recognition and Computer Vision },
-  pages={1--13},
-  year={2024},
-  organization={Springer}
+@article{Lin2025IPASD,
+  title={Intra-class progressive and adaptive self-distillation},
+  author={Gou, Jianping and Lin, Jiaye and Li, Lin and Ou, Weihua and Yu, Baosheng and Yi, Zhang},
+  journal={Neural Networks},
+  pages={107404},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
